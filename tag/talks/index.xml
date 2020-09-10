@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Belicia Taylor Rodriguez</title>
+    <link>https://beliciataylor.github.io/tag/talks/</link>
+      <atom:link href="https://beliciataylor.github.io/tag/talks/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beliciataylor.github.io/images/icon_huaf6522da452f1a6301dffff02c413587_17873_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks</title>
+      <link>https://beliciataylor.github.io/tag/talks/</link>
+    </image>
+    
+    <item>
+      <title>GitHub Talk</title>
+      <link>https://beliciataylor.github.io/project/github-talk/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/github-talk/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
