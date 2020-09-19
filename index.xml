@@ -27,7 +27,7 @@
 &lt;p&gt;What does version control have to do with Git? Git is a type of version control called &lt;em&gt;distributed version control system&lt;/em&gt;. Pretend that we have a computer A, or your local computer, where all of your file&amp;rsquo;s versions are stored in a version database, or a repository. What happens if you spill coffee all over your keyboard and lose all your files? You&amp;rsquo;d lose all your documents and their versions! Git can also store a copy of your local repositories in a server computer, or GitHub. That way, after you get a new computer, you can retrieve all of your versions and documents from the server computer.&lt;/p&gt;
 &lt;p&gt;Having your repositories in a server has an added benefit&amp;ndash;you can now access your repositories from any other computer i.e a work or remote computer. You can also update your server repository from a remote computer; that way, once your finished working on your repository at work, you can send it back to the server, and when you get home, you can upload your changes and continue working with your most up-to-date repository.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;distributed.png&#34; alt=&#34;Distributed&#34;&gt;&lt;/p&gt;
-&lt;p&gt;We mentioned GitHub as our &amp;ldquo;server computer&amp;rdquo; in our example, but in more general terms, GitHub is a centralized location for hosting git repositories (think: Git HUB). As far as I know, git repositories can store and update almost any file type including Python and R scripts, Jupyter notebooks, RMarkdown files, and PDFs. We&amp;rsquo;ve previously said we can store a copy of our local repository on GitHub.com, but how do we technically to do that? There are four Git commands that complete this process:&lt;/p&gt;
+&lt;p&gt;We mentioned GitHub as our &amp;ldquo;server computer&amp;rdquo; in our example, but in more general terms, GitHub is a centralized location for hosting git repositories (think: Git HUB). As far as I know, git repositories can store and update almost any file type including Python and R scripts, Jupyter notebooks, RMarkdown files, and PDFs. We&amp;rsquo;ve previously said we can store a copy of our local repository on GitHub.com, but how do we technically do that? There are four Git commands that complete this process:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;em&gt;git add&lt;/em&gt;: tells git you want to add a version of a file to your local repository&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;git commit&lt;/em&gt;: saves the versions of the files you previously &amp;ldquo;git&amp;rdquo; added to your local repository&lt;/li&gt;
@@ -42,14 +42,14 @@
 &lt;li&gt;Download Git onto your local computer.&lt;/li&gt;
 &lt;li&gt;Create a GitHub account.&lt;/li&gt;
 &lt;li&gt;Create a repository on GitHub.&lt;/li&gt;
-&lt;li&gt;Create a copy of a repository on your local computer.&lt;/li&gt;
+&lt;li&gt;Create a copy of your repository on your local computer.&lt;/li&gt;
 &lt;li&gt;Add a file to your local repository.&lt;/li&gt;
 &lt;li&gt;Push your file to GitHub.&lt;/li&gt;
 &lt;li&gt;Make changes to a file on GitHub.&lt;/li&gt;
 &lt;li&gt;Pull changes to your local computer.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;This concludes the &amp;ldquo;lecture&amp;rdquo; portion of my talk; the demonstration portion of my talk has been written out in great detail in my 
-&lt;a href=&#34;introduction-to-github-website.pdf&#34;&gt;handout&lt;/a&gt;, and there are screenshots of my screen showing each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.&lt;/p&gt;
+&lt;p&gt;To accomplish these steps, I would like to refer you to my 
+&lt;a href=&#34;introduction-to-github-website.pdf&#34;&gt;handout&lt;/a&gt;, which contains screenshots of my browser and terminal that show each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a preview of section 4 and 5 of the handout:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;handout_pic_1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;handout_pic_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
