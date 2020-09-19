@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Talk Write-Ups | Belicia Rodriguez</title>
+    <title>Talk-Write-Ups | Belicia Rodriguez</title>
     <link>https://beliciataylor.github.io/category/talk-write-ups/</link>
       <atom:link href="https://beliciataylor.github.io/category/talk-write-ups/index.xml" rel="self" type="application/rss+xml" />
-    <description>Talk Write-Ups</description>
+    <description>Talk-Write-Ups</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hue76badc2963783a4432a788c50e9588e_26337_512x512_fill_lanczos_center_2.png</url>
-      <title>Talk Write-Ups</title>
+      <title>Talk-Write-Ups</title>
       <link>https://beliciataylor.github.io/category/talk-write-ups/</link>
     </image>
     
@@ -23,10 +23,10 @@
 &lt;p&gt;Before we begin discussing the purpose and function of Git and GitHub, let&amp;rsquo;s start with understanding what version control systems are. A version control system allows you to make changes to a file or a set of files over time.&lt;/p&gt;
 &lt;p&gt;How is this different from how we normally save versions of documents? Imagine you are writing a paper for a course. You write the first paragraph, save, exit out of the document, return to the document the next day, rewrite the first paragraph, add a second paragraph, and save. Now, you&amp;rsquo;re rereading your first paragraph and realize you liked the first paragraph you wrote yesterday better. As much as you may want that first draft back, that version of your document is no longer available.&lt;/p&gt;
 &lt;p&gt;Here is where version control solves your problem. With version control, you have access multiple versions of a document, meaning you&amp;rsquo;ll have a record of all the changes that has been done to a document. Your file&amp;rsquo;s versions are stored in a version database. If you don&amp;rsquo;t like a current version of a document and want to revert back to an older version, you can. That first paragraph from yesterday is now easily accessible.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;github_img/version_control.png&#34; alt=&#34;Version Control&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;version_control.png&#34; alt=&#34;Version Control&#34;&gt;&lt;/p&gt;
 &lt;p&gt;What does version control have to do with Git? Git is a type of version control called &lt;em&gt;distributed version control system&lt;/em&gt;. Pretend that we have a computer A, or your local computer, where all of your file&amp;rsquo;s versions are stored in a version database, or a repository. What happens if you spill coffee all over your keyboard and lose all your files? You&amp;rsquo;d lose all your documents and their versions! Git can also store a copy of your local repositories in a server computer, or GitHub. That way, after you get a new computer, you can retrieve all of your versions and documents from the server computer.&lt;/p&gt;
 &lt;p&gt;Having your repositories in a server has an added benefit&amp;ndash;you can now access your repositories from any other computer i.e a work or remote computer. You can also update your server repository from a remote computer; that way, once your finished working on your repository at work, you can send it back to the server, and when you get home, you can upload your changes and continue working with your most up-to-date repository.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;github_img/distributed.png&#34; alt=&#34;Distributed&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;distributed.png&#34; alt=&#34;Distributed&#34;&gt;&lt;/p&gt;
 &lt;p&gt;We mentioned GitHub as our &amp;ldquo;server computer&amp;rdquo; in our example, but in more general terms, GitHub is a centralized location for hosting git repositories (think: Git HUB). As far as I know, git repositories can store and update almost any file type including Python and R scripts, Jupyter notebooks, RMarkdown files, and PDFs. We&amp;rsquo;ve previously said we can store a copy of our local repository on GitHub.com, but how do we technically to do that? There are four Git commands that complete this process:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;em&gt;git add&lt;/em&gt;: tells git you want to add a version of a file to your local repository&lt;/li&gt;
@@ -34,9 +34,9 @@
 &lt;li&gt;&lt;em&gt;git push&lt;/em&gt;: sends the updated local repository to your server repository&lt;/li&gt;
 &lt;li&gt;&lt;em&gt;git pull&lt;/em&gt;: if changes were made to your server repository, git pull updates your local repository with those changes&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;&lt;img src=&#34;github_img/git_push_pull_commands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;git_push_pull_commands.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The following diagram shows the way the commands are used between local, server, and remote repositories:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;github_img/git_github_diagram.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;TBD&lt;/p&gt;
 &lt;p&gt;Now that we&amp;rsquo;ve established our understanding of git and GitHub, how do we get started? To complete the process we&amp;rsquo;ve been outlining, we will complete the following steps:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Download Git onto your local computer.&lt;/li&gt;
@@ -51,8 +51,8 @@
 &lt;p&gt;This concludes the &amp;ldquo;lecture&amp;rdquo; portion of my talk; the demonstration portion of my talk has been written out in great detail in my 
 &lt;a href=&#34;%22files/Introduction_to_GitHub_doc.pdf%22&#34;&gt;handout&lt;/a&gt;, and there are screenshots of my screen showing each step in the process. Section 2 of the handout goes over how to install git for Windows, Linux, and Mac computers. Section 3 reviews how to set up a GitHub account. Section 4 talks about creating a repository. Finally, section 5 shows how to use the git commands to update your repository.&lt;/p&gt;
 &lt;p&gt;Here&amp;rsquo;s a preview of section 4 and 5 of the handout:&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;github_img/handout_pic_1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;github_img/handout_pic_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;handout_pic_1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;handout_pic_2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And that&amp;rsquo;s it! After reviewing the handout and going through the demonstration, the power of git and GitHub are at your fingertips. Happy committing!&lt;/p&gt;
 </description>
     </item>
