@@ -5,12 +5,36 @@
     <link>https://beliciataylor.github.io/</link>
       <atom:link href="https://beliciataylor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Belicia Taylor Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Belicia Taylor Rodriguez</title>
       <link>https://beliciataylor.github.io/</link>
     </image>
+    
+    <item>
+      <title>About</title>
+      <link>https://beliciataylor.github.io/about/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pregnancy Habits and Child Birth Weight</title>
+      <link>https://beliciataylor.github.io/project/pregnancy-habits/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/pregnancy-habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://beliciataylor.github.io/resume/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/resume/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Rise of Self-Reliant Aid Initiatives in Response to the Post-Cold War Refugee Crises</title>

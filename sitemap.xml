@@ -3,27 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://beliciataylor.github.io/about/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beliciataylor.github.io/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/project/pregnancy-habits/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://beliciataylor.github.io/project/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/resume/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://beliciataylor.github.io/tags/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/project/refugee-crises-writing-sample/</loc>
-    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://beliciataylor.github.io/tag/undergraduate/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/project/refugee-crises-writing-sample/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
