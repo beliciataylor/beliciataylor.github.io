@@ -5,7 +5,7 @@
     <link>https://beliciataylor.github.io/</link>
       <atom:link href="https://beliciataylor.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Belicia Taylor Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Belicia Taylor Rodriguez</title>
@@ -21,10 +21,18 @@
     </item>
     
     <item>
-      <title>Pregnancy Habits and Child Birth Weight</title>
-      <link>https://beliciataylor.github.io/project/pregnancy-habits/</link>
+      <title>Blogs</title>
+      <link>https://beliciataylor.github.io/blogs/</link>
       <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/pregnancy-habits/</guid>
+      <guid>https://beliciataylor.github.io/blogs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://beliciataylor.github.io/projects/</link>
+      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/projects/</guid>
       <description></description>
     </item>
     
@@ -49,7 +57,10 @@
       <link>https://beliciataylor.github.io/post/intro-to-github-talk/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/post/intro-to-github-talk/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my 
+      <description>&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: This post can also be found on my 
+&lt;a href=&#34;https://blog.beliciarodriguez.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my 
 &lt;a href=&#34;introduction-to-github-website.pdf&#34;&gt;detailed handout&lt;/a&gt; which goes step-by-step into how to create a repository, how to update a local and remote repository using Git commands, etc. For a detailed write-up of my talk, please see my handout, which contains my notes for the presentation and demonstration and was distributed to the students of the class.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Before we begin discussing the purpose and function of Git and GitHub, let&amp;rsquo;s start with understanding what version control systems are. A version control system allows you to make changes to a file or a set of files over time.&lt;/p&gt;
@@ -90,11 +101,22 @@
     </item>
     
     <item>
+      <title>Introduction to Git and GitHub</title>
+      <link>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Co-authorship networks in academic publishing in economics</title>
       <link>https://beliciataylor.github.io/post/sure-symposium-presentation/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/post/sure-symposium-presentation/</guid>
-      <description>&lt;p&gt;During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: This post can also be found on my 
+&lt;a href=&#34;https://blog.beliciarodriguez.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.&lt;/p&gt;
 &lt;p&gt;What is a co-authorship network? A co-authorship network shows the connections between authors who have published a paper together. Take the following sample co-authorship network as our example.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Author A and Author B have written a paper together, Author A and Author C have written a paper together, but Author B and Author C have not written a paper together. This co-authorship network has three authors and two papers, but, in reality, co-authorship networks consist of thousands of authors and thousands of papers.&lt;/p&gt;
@@ -120,10 +142,26 @@
     </item>
     
     <item>
+      <title>Co-authorship networks in academic publishing in economics</title>
+      <link>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SURE Symposium Poster</title>
       <link>https://beliciataylor.github.io/project/sure-poster/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/project/sure-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pregnancy Habits and Child Birth Weight</title>
+      <link>https://beliciataylor.github.io/project/pregnancy-habits/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/pregnancy-habits/</guid>
       <description></description>
     </item>
     
@@ -152,136 +190,11 @@
     </item>
     
     <item>
-      <title>Tips for Developing Website Using blogdown</title>
-      <link>https://beliciataylor.github.io/project/medium-blogdown/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/medium-blogdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Emory Wheel College Newspaper Articles</title>
       <link>https://beliciataylor.github.io/project/college-newspaper/</link>
       <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/project/college-newspaper/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Certificates</title>
-      <link>https://beliciataylor.github.io/certificates/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/certificates/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Coursera&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Introduction to Data Science in Python&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.coursera.org/learn/python-data-analysis&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;coursera/Intro-Data-Science-Python.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;TensorFlow in Practice Specialization&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.coursera.org/professional-certificates/tensorflow-in-practice&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;coursera/Tensorflow-in-Practice.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;LinkedIn Learning&lt;/strong&gt;: Microsoft Azure Toolkit&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Azure Spark Databricks Essential Training&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/azure-spark-databricks-essential-training&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Azure-Databricks.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Learning Azure SQL Querying&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/learning-azure-sql-querying&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Azure-SQL-Querying.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Learning Azure Storage for Developers&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/learning-azure-storage-for-developers&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Azure-Storage.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;LinkedIn Learning&lt;/strong&gt;: Hadoop&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Cloud Hadoop: Scaling Apache Spark&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/cloud-hadoop-scaling-apache-spark&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Cloud-Hadoop.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Learning Hadoop&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/learning-hadoop-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Learning-Hadoop.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;LinkedIn Learning&lt;/strong&gt;: SQL&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Microsoft SQL Server 2016 Essential Training&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/microsoft-sql-server-2016-essential-training/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Microsoft-SQL-Server-2016-Essential-Training.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Learning Microsoft SQL Server 2019&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/learning-microsoft-sql-server-2019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Learning-Microsoft-SQL-Server-2019.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;SQL Server 2017: What&amp;rsquo;s New&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/sql-server-2017-what-s-new&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/SQL-Server-2017-Whats-New.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;LinkedIn Learning&lt;/strong&gt;: Python&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Python for Data Visualizations&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/python-for-data-visualization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Python-for-Data-Visualization.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;NumPy Data Science Essential Training&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/numpy-data-science-essential-training&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Numpy-Data-Science-Essential-Training.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Python Essential Training&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/python-essential-training-2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Python-Essential-Training.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;LinkedIn Learning&lt;/strong&gt;: Jupyter &amp;amp; GitHub&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Introducing Jupyter&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/introducing-jupyter&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Introducing-Jupyter.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Learning GitHub&lt;/em&gt;
-|
-&lt;a href=&#34;https://www.linkedin.com/learning/learning-github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Course Site&lt;/a&gt;
-|
-&lt;a href=&#34;linkedin-learning/Learning-GitHub.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Data Camp&lt;/strong&gt;: Shell&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Introduction to Shell&lt;/em&gt;
-|
-&lt;a href=&#34;datacamp/Intro-to-Shell.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Data Processing in Shell&lt;/em&gt;
-|
-&lt;a href=&#34;datacamp/Data-Processing-In-Shell.pdf&#34;&gt;View Certificate&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Curriculum Vitae</title>
-      <link>https://beliciataylor.github.io/cv/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/cv/</guid>
-      <description>
-
-
-  &lt;iframe src=&#34;https://beliciarodriguez.com/files/cv.pdf&#34; height=&#34;700&#34; width=&#34;110%&#34;&gt;&lt;/iframe&gt;
-
-
-
-</description>
     </item>
     
   </channel>

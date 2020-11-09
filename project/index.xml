@@ -5,20 +5,12 @@
     <link>https://beliciataylor.github.io/project/</link>
       <atom:link href="https://beliciataylor.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 05 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Projects</title>
       <link>https://beliciataylor.github.io/project/</link>
     </image>
-    
-    <item>
-      <title>Pregnancy Habits and Child Birth Weight</title>
-      <link>https://beliciataylor.github.io/project/pregnancy-habits/</link>
-      <pubDate>Thu, 05 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/pregnancy-habits/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>The Rise of Self-Reliant Aid Initiatives in Response to the Post-Cold War Refugee Crises</title>
@@ -33,6 +25,14 @@
       <link>https://beliciataylor.github.io/project/sure-poster/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/project/sure-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pregnancy Habits and Child Birth Weight</title>
+      <link>https://beliciataylor.github.io/project/pregnancy-habits/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/pregnancy-habits/</guid>
       <description></description>
     </item>
     
@@ -57,14 +57,6 @@
       <link>https://beliciataylor.github.io/project/repository-self-study/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/project/repository-self-study/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tips for Developing Website Using blogdown</title>
-      <link>https://beliciataylor.github.io/project/medium-blogdown/</link>
-      <pubDate>Mon, 22 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/project/medium-blogdown/</guid>
       <description></description>
     </item>
     

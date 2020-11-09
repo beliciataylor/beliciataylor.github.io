@@ -17,7 +17,10 @@
       <link>https://beliciataylor.github.io/post/sure-symposium-presentation/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/post/sure-symposium-presentation/</guid>
-      <description>&lt;p&gt;During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: This post can also be found on my 
+&lt;a href=&#34;https://blog.beliciarodriguez.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.&lt;/p&gt;
 &lt;p&gt;What is a co-authorship network? A co-authorship network shows the connections between authors who have published a paper together. Take the following sample co-authorship network as our example.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Author A and Author B have written a paper together, Author A and Author C have written a paper together, but Author B and Author C have not written a paper together. This co-authorship network has three authors and two papers, but, in reality, co-authorship networks consist of thousands of authors and thousands of papers.&lt;/p&gt;

@@ -5,7 +5,7 @@
     <link>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</link>
       <atom:link href="https://beliciataylor.github.io/author/belicia-taylor-rodriguez/index.xml" rel="self" type="application/rss+xml" />
     <description>Belicia Taylor Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Belicia Taylor Rodriguez</title>
@@ -13,11 +13,22 @@
     </image>
     
     <item>
+      <title>The Rise of Self-Reliant Aid Initiatives in Response to the Post-Cold War Refugee Crises</title>
+      <link>https://beliciataylor.github.io/project/refugee-crises-writing-sample/</link>
+      <pubDate>Tue, 29 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/refugee-crises-writing-sample/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Introduction to Git and GitHub</title>
       <link>https://beliciataylor.github.io/post/intro-to-github-talk/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/post/intro-to-github-talk/</guid>
-      <description>&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my 
+      <description>&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: This post can also be found on my 
+&lt;a href=&#34;https://blog.beliciarodriguez.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;Background&lt;/em&gt;: As a senior undergraduate student at Emory, I had the pleasure of being invited to talk to an Emory undergraduate research course on how to begin using GitHub, and the following post summarizes the key points of that talk. I will be reviewing version control systems, the connection between Git and GitHub, and introducing the purpose behind common git commands (i.e push, pull, commit). Additionally, I will highlight portions of my 
 &lt;a href=&#34;introduction-to-github-website.pdf&#34;&gt;detailed handout&lt;/a&gt; which goes step-by-step into how to create a repository, how to update a local and remote repository using Git commands, etc. For a detailed write-up of my talk, please see my handout, which contains my notes for the presentation and demonstration and was distributed to the students of the class.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Before we begin discussing the purpose and function of Git and GitHub, let&amp;rsquo;s start with understanding what version control systems are. A version control system allows you to make changes to a file or a set of files over time.&lt;/p&gt;
@@ -58,11 +69,22 @@
     </item>
     
     <item>
+      <title>Introduction to Git and GitHub</title>
+      <link>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Co-authorship networks in academic publishing in economics</title>
       <link>https://beliciataylor.github.io/post/sure-symposium-presentation/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://beliciataylor.github.io/post/sure-symposium-presentation/</guid>
-      <description>&lt;p&gt;During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.&lt;/p&gt;
+      <description>&lt;p&gt;&lt;em&gt;Note&lt;/em&gt;: This post can also be found on my 
+&lt;a href=&#34;https://blog.beliciarodriguez.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blog&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;During the summer of 2020, I researched whether co-authorship networks in the top five economics journals modeled small-worldness.&lt;/p&gt;
 &lt;p&gt;What is a co-authorship network? A co-authorship network shows the connections between authors who have published a paper together. Take the following sample co-authorship network as our example.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&#34;img1.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Author A and Author B have written a paper together, Author A and Author C have written a paper together, but Author B and Author C have not written a paper together. This co-authorship network has three authors and two papers, but, in reality, co-authorship networks consist of thousands of authors and thousands of papers.&lt;/p&gt;
@@ -85,6 +107,54 @@
 &lt;p&gt;The red nodes, or circles, signify all the authors who are part of the largest connected group. The blue nodes are not in the largest connection. Overtime, more authors are added to the largest group until majority are in the largest connected group.&lt;/p&gt;
 &lt;p&gt;Therefore, this study shows that authors publishing in these top five general-interest economic jouranls tend to be interconnected with each other and form small communities. This study is a precursor into our study of creating co-authorship networks using natural language processing.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Co-authorship networks in academic publishing in economics</title>
+      <link>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SURE Symposium Poster</title>
+      <link>https://beliciataylor.github.io/project/sure-poster/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/sure-poster/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pregnancy Habits and Child Birth Weight</title>
+      <link>https://beliciataylor.github.io/project/pregnancy-habits/</link>
+      <pubDate>Fri, 06 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/pregnancy-habits/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>https://beliciataylor.github.io/project/repository-portfolio/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/repository-portfolio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Study</title>
+      <link>https://beliciataylor.github.io/project/repository-self-study/</link>
+      <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/repository-self-study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emory Wheel College Newspaper Articles</title>
+      <link>https://beliciataylor.github.io/project/college-newspaper/</link>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/college-newspaper/</guid>
+      <description></description>
     </item>
     
   </channel>

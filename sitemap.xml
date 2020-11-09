@@ -8,17 +8,12 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/</loc>
+    <loc>https://beliciataylor.github.io/blogs/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/project/pregnancy-habits/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/project/</loc>
+    <loc>https://beliciataylor.github.io/projects/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -28,13 +23,38 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tags/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+    <loc>https://beliciataylor.github.io/authors/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/undergraduate/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+    <loc>https://beliciataylor.github.io/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/categories/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/tag/featured/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/project/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/tags/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -43,22 +63,17 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/writing-sample/</loc>
+    <loc>https://beliciataylor.github.io/tag/undergraduate/</loc>
     <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/authors/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+    <loc>https://beliciataylor.github.io/category/undergraduate/</loc>
+    <lastmod>2020-09-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</loc>
-    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/categories/</loc>
+    <loc>https://beliciataylor.github.io/recent_blog/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,6 +93,11 @@
   </url>
   
   <url>
+    <loc>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beliciataylor.github.io/post/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
@@ -89,6 +109,11 @@
   
   <url>
     <loc>https://beliciataylor.github.io/post/sure-symposium-presentation/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -108,18 +133,13 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/sure/</loc>
-    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://beliciataylor.github.io/project/sure-poster/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/category/documents/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://beliciataylor.github.io/project/pregnancy-habits/</loc>
+    <lastmod>2019-12-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -133,7 +153,7 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/repository/</loc>
+    <loc>https://beliciataylor.github.io/tag/repositories/</loc>
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,31 +163,8 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/medium/</loc>
-    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/project/medium-blogdown/</loc>
-    <lastmod>2019-04-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://beliciataylor.github.io/project/college-newspaper/</loc>
     <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/tag/newspaper/</loc>
-    <lastmod>2018-10-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/certificates/</loc>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/cv/</loc>
   </url>
   
   <url>
