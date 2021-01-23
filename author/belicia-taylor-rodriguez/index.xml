@@ -5,12 +5,20 @@
     <link>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</link>
       <atom:link href="https://beliciataylor.github.io/author/belicia-taylor-rodriguez/index.xml" rel="self" type="application/rss+xml" />
     <description>Belicia Taylor Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Belicia Taylor Rodriguez</title>
       <link>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</link>
     </image>
+    
+    <item>
+      <title>AWS EC2 PostgreSQL Server Documentation</title>
+      <link>https://beliciataylor.github.io/project/aws-ec2-postgresql-server/</link>
+      <pubDate>Wed, 13 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/project/aws-ec2-postgresql-server/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Rise of Self-Reliant Aid Initiatives in Response to the Post-Cold War Refugee Crises</title>
