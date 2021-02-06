@@ -5,7 +5,7 @@
     <link>https://beliciataylor.github.io/category/undergraduate/</link>
       <atom:link href="https://beliciataylor.github.io/category/undergraduate/index.xml" rel="self" type="application/rss+xml" />
     <description>Undergraduate</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Tue, 29 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Undergraduate</title>
@@ -22,17 +22,17 @@
     
     <item>
       <title>Introduction to Git and GitHub</title>
-      <link>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</link>
+      <link>https://beliciataylor.github.io/unused/recent_blog/intro-to-github-talk/</link>
       <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</guid>
+      <guid>https://beliciataylor.github.io/unused/recent_blog/intro-to-github-talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Co-authorship networks in academic publishing in economics</title>
-      <link>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</link>
+      <link>https://beliciataylor.github.io/unused/recent_blog/sure-symposium-presentation/</link>
       <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</guid>
+      <guid>https://beliciataylor.github.io/unused/recent_blog/sure-symposium-presentation/</guid>
       <description></description>
     </item>
     

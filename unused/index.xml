@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unuseds | Belicia Taylor Rodriguez</title>
+    <link>https://beliciataylor.github.io/unused/</link>
+      <atom:link href="https://beliciataylor.github.io/unused/index.xml" rel="self" type="application/rss+xml" />
+    <description>Unuseds</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
+      <title>Unuseds</title>
+      <link>https://beliciataylor.github.io/unused/</link>
+    </image>
+    
+  </channel>
+</rss>

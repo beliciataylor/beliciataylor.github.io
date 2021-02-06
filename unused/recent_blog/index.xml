@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Belicia Taylor Rodriguez</title>
+    <link>https://beliciataylor.github.io/unused/recent_blog/</link>
+      <atom:link href="https://beliciataylor.github.io/unused/recent_blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Fri, 18 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
+      <title>Blog</title>
+      <link>https://beliciataylor.github.io/unused/recent_blog/</link>
+    </image>
+    
+    <item>
+      <title>Introduction to Git and GitHub</title>
+      <link>https://beliciataylor.github.io/unused/recent_blog/intro-to-github-talk/</link>
+      <pubDate>Fri, 18 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/unused/recent_blog/intro-to-github-talk/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-authorship networks in academic publishing in economics</title>
+      <link>https://beliciataylor.github.io/unused/recent_blog/sure-symposium-presentation/</link>
+      <pubDate>Tue, 11 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/unused/recent_blog/sure-symposium-presentation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

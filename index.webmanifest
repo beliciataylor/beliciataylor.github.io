@@ -2,8 +2,8 @@
   "name": "Belicia Taylor Rodriguez",
   "short_name": "Belicia Taylor Rodriguez",
   "lang": "en-us",
-  "theme_color": "rgb(251, 191, 183)",
-  "background_color": "rgb(251, 191, 183)",
+  "theme_color": "#85c1e9",
+  "background_color": "#85c1e9",
   "icons": [{
     "src": "/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

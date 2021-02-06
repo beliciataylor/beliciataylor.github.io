@@ -48,12 +48,17 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/blogs/</loc>
+    <loc>https://beliciataylor.github.io/data-science/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://beliciataylor.github.io/projects/</loc>
+    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/research/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -83,17 +88,17 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/recent_blog/</loc>
+    <loc>https://beliciataylor.github.io/unused/recent_blog/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/git/</loc>
+    <loc>https://beliciataylor.github.io/tag/data-science/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/tag/github/</loc>
+    <loc>https://beliciataylor.github.io/category/data-science/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -103,7 +108,12 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/recent_blog/intro-to-github-talk/</loc>
+    <loc>https://beliciataylor.github.io/unused/post/intro-to-github-talk/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/unused/recent_blog/intro-to-github-talk/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,7 +123,17 @@
   </url>
   
   <url>
+    <loc>https://beliciataylor.github.io/unused/post/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://beliciataylor.github.io/category/talk-write-ups/</loc>
+    <lastmod>2020-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/unused/</loc>
     <lastmod>2020-09-18T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +143,12 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/recent_blog/sure-symposium-presentation/</loc>
+    <loc>https://beliciataylor.github.io/unused/post/sure-symposium-presentation/</loc>
+    <lastmod>2020-08-11T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://beliciataylor.github.io/unused/recent_blog/sure-symposium-presentation/</loc>
     <lastmod>2020-08-11T00:00:00+00:00</lastmod>
   </url>
   
@@ -178,15 +203,19 @@
   </url>
   
   <url>
+    <loc>https://beliciataylor.github.io/blog/</loc>
+  </url>
+  
+  <url>
     <loc>https://beliciataylor.github.io/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/publication/</loc>
+    <loc>https://beliciataylor.github.io/unused/publication/</loc>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/talk/</loc>
+    <loc>https://beliciataylor.github.io/unused/talk/</loc>
   </url>
   
 </urlset>
