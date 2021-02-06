@@ -5,12 +5,46 @@
     <link>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</link>
       <atom:link href="https://beliciataylor.github.io/author/belicia-taylor-rodriguez/index.xml" rel="self" type="application/rss+xml" />
     <description>Belicia Taylor Rodriguez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Wed, 13 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>The views and findings expressed here are those of the author’s and do not necessarily reflect the views of the Federal Reserve Bank of New York or the Federal Reserve System.</copyright><lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png</url>
       <title>Belicia Taylor Rodriguez</title>
       <link>https://beliciataylor.github.io/author/belicia-taylor-rodriguez/</link>
     </image>
+    
+    <item>
+      <title>Introduction to AWS PostgreSQL Server Documentation</title>
+      <link>https://beliciataylor.github.io/post/aws-postgresql-server/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://beliciataylor.github.io/post/aws-postgresql-server/</guid>
+      <description>&lt;p&gt;Imagine the following scenario:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;You have several files of data that are interconnected with each other&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You want to create data tables combining information from separate data files&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;You want your project team to access the data and tables all from one location&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A SQL server allows you to input your data into a database and create tables from different files using SQL commands, and you can also create users and allow them access to different databases in your server.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a big remaining question: how do you create a server for everyone in your project team to access? Several cloud vendors offer solutions, but most of the pre-configured SQL database cloud services can become expensive (if you&amp;rsquo;d like to investigate for yourself, Amazon Relational Database Services (RDS) lists their pricing for PostgreSQL here).&lt;/p&gt;
+&lt;p&gt;A cheaper solution is to install and create your own PostgreSQL server on an Amazon EC2 instance and having your teammates access the server through pgAdmin4, PostgreSQL&amp;rsquo;s most popular GUI.&lt;/p&gt;
+&lt;p&gt;In this documentation,  we will&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Configure an AWS EC2 Ubuntu machine for PostgreSQL server&lt;/li&gt;
+&lt;li&gt;Configure instance to scale up or down depending on CPU demand using EC2 auto-scale feature&lt;/li&gt;
+&lt;li&gt;Set-up PostgreSQL server with users in our Ubuntu instance&lt;/li&gt;
+&lt;li&gt;Access PostgreSQL server on our remote computers using pgAdmin4&lt;/li&gt;
+&lt;li&gt;Backing up your PostgreSQL EC2 server in AWS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The goal is to review every step and give clear rationale so that you not only know what to do but also why you&amp;rsquo;re doing it. Additionally, I list all of the website resources referenced in each section.&lt;/p&gt;
+&lt;p&gt;To access the rest of my documentation, visit the following site:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://aws-postgresql-docs.beliciarodriguez.com/&#34;&gt;https://aws-postgresql-docs.beliciarodriguez.com/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>AWS EC2 PostgreSQL Server Documentation</title>

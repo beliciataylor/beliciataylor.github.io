@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="Introducing my documentation on creating a PostgreSQL server using an AWS EC2">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://beliciataylor.github.io/">
+  <link rel="alternate" hreflang="en-us" href="https://beliciataylor.github.io/post/aws-postgresql-server/">
 
   
 
@@ -210,18 +210,14 @@
 
   
   
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-  
 
-  
-  <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Belicia Taylor Rodriguez">
   
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="https://beliciataylor.github.io/">
+  <link rel="canonical" href="https://beliciataylor.github.io/post/aws-postgresql-server/">
 
   
   
@@ -231,38 +227,75 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="twitter:site" content="@beliciataylor">
   <meta property="twitter:creator" content="@beliciataylor">
   
   <meta property="og:site_name" content="Belicia Taylor Rodriguez">
-  <meta property="og:url" content="https://beliciataylor.github.io/">
-  <meta property="og:title" content="Belicia Taylor Rodriguez">
-  <meta property="og:description" content=""><meta property="og:image" content="https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png">
-  <meta property="twitter:image" content="https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://beliciataylor.github.io/post/aws-postgresql-server/">
+  <meta property="og:title" content="Introduction to AWS PostgreSQL Server Documentation | Belicia Taylor Rodriguez">
+  <meta property="og:description" content="Introducing my documentation on creating a PostgreSQL server using an AWS EC2"><meta property="og:image" content="https://beliciataylor.github.io/post/aws-postgresql-server/featured.png">
+  <meta property="twitter:image" content="https://beliciataylor.github.io/post/aws-postgresql-server/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2021-02-06T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2021-02-06T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2021-02-06T00:00:00&#43;00:00">
   
 
   
+
+
+    
+
+
+
+
+
+
+  
+
+
+
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "WebSite",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://beliciataylor.github.io/?q={search_term_string}",
-    "query-input": "required name=search_term_string"
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://beliciataylor.github.io/post/aws-postgresql-server/"
   },
-  "url": "https://beliciataylor.github.io/"
+  "headline": "Introduction to AWS PostgreSQL Server Documentation",
+  
+  "image": [
+    "https://beliciataylor.github.io/post/aws-postgresql-server/featured.png"
+  ],
+  
+  "datePublished": "2021-02-06T00:00:00Z",
+  "dateModified": "2021-02-06T00:00:00Z",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Belicia Taylor Rodriguez"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Belicia Taylor Rodriguez",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://beliciataylor.github.io/images/icon_hu9c88287d94b818ddfa3c248611148a90_23006_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "Introducing my documentation on creating a PostgreSQL server using an AWS EC2"
 }
 </script>
 
+  
 
   
 
@@ -286,11 +319,11 @@
     Analytics"></a></div></noscript>
     
 
-  <title>Belicia Taylor Rodriguez</title>
+  <title>Introduction to AWS PostgreSQL Server Documentation | Belicia Taylor Rodriguez</title>
 
 </head>
 
-<body id="top" data-spy="scroll" data-offset="70" data-target="#navbar-main" >
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" >
 
   <aside class="search-results" id="search">
   <div class="container">
@@ -385,7 +418,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#about" data-target="#about"><span>Home</span></a>
+          <a class="nav-link " href="/#about"><span>Home</span></a>
         </li>
 
         
@@ -480,66 +513,7 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-<span class="js-widget-page d-none"></span>
-
-
-
-
-
-  
-  
-  
-  
-
-
-
-
-  
-  
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-  
-
-  
-  
-  
-
-  
-  
-  
-  
-  
-
-  
-  
-
-  <section id="about" class="home-section wg-about   "  >
-    <div class="container">
-      
-
-
-
+  <article class="article">
 
   
 
@@ -552,130 +526,375 @@
 
 
 
-<div class="row">
-  <div class="col-12 col-lg-4">
-    <div id="profile">
 
-      
-      
-      <img class="avatar avatar-square" src="/author/belicia-taylor-rodriguez/avatar_hubd0e49682f36e3b7bccd489e291efa96_191590_270x270_fill_q90_lanczos_center.jpg" alt="Belicia Taylor Rodriguez">
-      
 
-      
 
-      <ul class="network-icon" aria-hidden="true">
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-        <li>
-          <a href="mailto:belicia.taylor@gmail.com" >
-            <i class="fas fa-envelope big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://twitter.com/beliciataylor" target="_blank" rel="noopener">
-            <i class="fab fa-twitter big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://medium.com/@beliciataylor" target="_blank" rel="noopener">
-            <i class="fab fa-medium big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://linkedin.com/in/beliciarodriguez" target="_blank" rel="noopener">
-            <i class="fab fa-linkedin big-icon"></i>
-          </a>
-        </li>
-        
-        
-        
-        
-          
-        
-        
-        
-        
-        
-          
-        
-        <li>
-          <a href="https://github.com/beliciataylor" target="_blank" rel="noopener">
-            <i class="fab fa-github big-icon"></i>
-          </a>
-        </li>
-        
-      </ul>
 
-    </div>
-  </div>
-  <div class="col-12 col-lg-8">
 
+
+
+
+
+
+  
+  
+
+
+<div class="article-container pt-3">
+  <h1>Introduction to AWS PostgreSQL Server Documentation</h1>
+
+  
+  <p class="page-subtitle">Introducing my documentation on creating a PostgreSQL server using an AWS EC2</p>
+  
+
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
     
-    <h1>Belicia Taylor Rodriguez</h1>
 
-    <p>I am a Senior Research Analyst at the Federal Reserve Bank of New York for Microeconomic Studies (Research &amp; Statistics) and Community Development (Outreach &amp; Education).</p>
-<p>I graduated with a BA in Economics and Mathematics (with an English minor) from Emory University, where I&rsquo;ve been a research assistant in the Emory Economics department. Most notably, through Emory&rsquo;s Summer Research Program, I collaborated on a project that analyzed co-authorship networks with traditional social network methods and natural language processing.</p>
-<p>I am very interested in Microeconomics and Machine Learning, and I plan on pursuing a PhD in Economics. During my spare time, I can be found knitting a new pattern, reading a book from my growing to-reads list, or working on my blog.</p>
+  
+  <span><a href="/author/belicia-taylor-rodriguez/">Belicia Taylor Rodriguez</a></span>
+  </div>
+  
+  
 
-
-    <div class="row">
-
+  
+  <span class="article-date">
+    
+    
       
+    
+    Feb 6, 2021
+  </span>
+  
 
-      
+  
 
-    </div>
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/category/data-science/">Data-Science</a></span>
+  
+
+</div>
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+<div class="article-header container featured-image-wrapper mt-4 mb-4" style="max-width: 402px; max-height: 313px;">
+  <div style="position: relative">
+    <img src="/post/aws-postgresql-server/featured.png" alt="" class="featured-image">
+    
   </div>
 </div>
 
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Imagine the following scenario:</p>
+<ol>
+<li>
+<p>You have several files of data that are interconnected with each other</p>
+</li>
+<li>
+<p>You want to create data tables combining information from separate data files</p>
+</li>
+<li>
+<p>You want your project team to access the data and tables all from one location</p>
+</li>
+</ol>
+<p>A SQL server allows you to input your data into a database and create tables from different files using SQL commands, and you can also create users and allow them access to different databases in your server.</p>
+<p>There&rsquo;s a big remaining question: how do you create a server for everyone in your project team to access? Several cloud vendors offer solutions, but most of the pre-configured SQL database cloud services can become expensive (if you&rsquo;d like to investigate for yourself, Amazon Relational Database Services (RDS) lists their pricing for PostgreSQL here).</p>
+<p>A cheaper solution is to install and create your own PostgreSQL server on an Amazon EC2 instance and having your teammates access the server through pgAdmin4, PostgreSQL&rsquo;s most popular GUI.</p>
+<p>In this documentation,  we will</p>
+<ul>
+<li>Configure an AWS EC2 Ubuntu machine for PostgreSQL server</li>
+<li>Configure instance to scale up or down depending on CPU demand using EC2 auto-scale feature</li>
+<li>Set-up PostgreSQL server with users in our Ubuntu instance</li>
+<li>Access PostgreSQL server on our remote computers using pgAdmin4</li>
+<li>Backing up your PostgreSQL EC2 server in AWS</li>
+</ul>
+<p>The goal is to review every step and give clear rationale so that you not only know what to do but also why you&rsquo;re doing it. Additionally, I list all of the website resources referenced in each section.</p>
+<p>To access the rest of my documentation, visit the following site:</p>
+<p><a href="https://aws-postgresql-docs.beliciarodriguez.com/">https://aws-postgresql-docs.beliciarodriguez.com/</a></p>
+
     </div>
-  </section>
+
+    
 
 
+
+
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://beliciataylor.github.io/post/aws-postgresql-server/&amp;text=Introduction%20to%20AWS%20PostgreSQL%20Server%20Documentation" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://beliciataylor.github.io/post/aws-postgresql-server/&amp;t=Introduction%20to%20AWS%20PostgreSQL%20Server%20Documentation" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Introduction%20to%20AWS%20PostgreSQL%20Server%20Documentation&amp;body=https://beliciataylor.github.io/post/aws-postgresql-server/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://beliciataylor.github.io/post/aws-postgresql-server/&amp;title=Introduction%20to%20AWS%20PostgreSQL%20Server%20Documentation" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Introduction%20to%20AWS%20PostgreSQL%20Server%20Documentation%20https://beliciataylor.github.io/post/aws-postgresql-server/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://beliciataylor.github.io/post/aws-postgresql-server/&amp;title=Introduction%20to%20AWS%20PostgreSQL%20Server%20Documentation" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+    
+    
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-square" src="/author/belicia-taylor-rodriguez/avatar_hubd0e49682f36e3b7bccd489e291efa96_191590_270x270_fill_q90_lanczos_center.jpg" alt="Belicia Taylor Rodriguez">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="https://beliciataylor.github.io/">Belicia Taylor Rodriguez</a></h5>
+        
+        
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+    <li>
+      <a href="mailto:belicia.taylor@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://twitter.com/beliciataylor" target="_blank" rel="noopener">
+        <i class="fab fa-twitter"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://medium.com/@beliciataylor" target="_blank" rel="noopener">
+        <i class="fab fa-medium"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://linkedin.com/in/beliciarodriguez" target="_blank" rel="noopener">
+        <i class="fab fa-linkedin"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/beliciataylor" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  </div>
+</article>
 
       
 
@@ -760,18 +979,6 @@
     
 
     
-    
-    <script>
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.on("init", user => {
-          if (!user) {
-            window.netlifyIdentity.on("login", () => {
-              document.location.href = "/admin/";
-            });
-          }
-        });
-      }
-    </script>
     
 
     
