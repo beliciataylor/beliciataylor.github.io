@@ -63,17 +63,12 @@
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/about/</loc>
-    <lastmod>2020-11-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://beliciataylor.github.io/data-science/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://beliciataylor.github.io/projects/</loc>
+    <loc>https://beliciataylor.github.io/portfolio/</loc>
     <lastmod>2020-11-05T00:00:00+00:00</lastmod>
   </url>
   
@@ -168,18 +163,6 @@
   
   <url>
     <loc>https://beliciataylor.github.io/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/unused/publication/</loc>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/unused/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://beliciataylor.github.io/unused/</loc>
   </url>
   
 </urlset>
